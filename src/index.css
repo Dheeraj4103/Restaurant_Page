@@ -25,7 +25,7 @@ div#title h1#heading {
 }
 
 button {
-    border: 1px solid white;
+    border: 3px solid white;
     background: transparent;
     color: white;
     font-size: 2em;
